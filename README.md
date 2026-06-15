@@ -1,4 +1,5 @@
 🏦 Loan Approval Prediction Using Machine Learning
+
 📌 Project Overview
 This project aims to predict whether a loan application will be approved or rejected based on applicant details such as income, CIBIL score, loan amount, education, employment status, and asset values. The project uses Machine Learning algorithms to help financial institutions make faster and more accurate loan approval decisions.
 
