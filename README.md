@@ -70,4 +70,5 @@ Random Forest effectively captures complex relationships in the data.
 I developed a Loan Approval Prediction System using Machine Learning techniques. After preprocessing, analysis, and model comparison, Random Forest achieved the best accuracy of 98.88%. This project demonstrates how Machine Learning can support faster and more accurate loan approval decisions.
 
 👨‍💻 Author
+
 SaiCharan Lingalla
